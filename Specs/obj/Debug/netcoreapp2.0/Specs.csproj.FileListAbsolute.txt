@@ -1,0 +1,17 @@
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\Microsoft.DiaSymReader.Native.x86.dll
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\Microsoft.DiaSymReader.Native.amd64.dll
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\Specs.dll.config
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\Specs.deps.json
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\Specs.runtimeconfig.json
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\Specs.runtimeconfig.dev.json
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\Specs.dll
+C:\git\specflow.netcore\Specs\bin\Debug\netcoreapp2.0\Specs.pdb
+C:\git\specflow.netcore\Specs\obj\Debug\netcoreapp2.0\Specs.csprojResolveAssemblyReference.cache
+C:\git\specflow.netcore\Specs\obj\Debug\netcoreapp2.0\Specs.csproj.CoreCompileInputs.cache
+C:\git\specflow.netcore\Specs\obj\Debug\netcoreapp2.0\Specs.AssemblyInfoInputs.cache
+C:\git\specflow.netcore\Specs\obj\Debug\netcoreapp2.0\Specs.AssemblyInfo.cs
+C:\git\specflow.netcore\Specs\obj\Debug\netcoreapp2.0\Specs.dll
+C:\git\specflow.netcore\Specs\obj\Debug\netcoreapp2.0\Specs.pdb

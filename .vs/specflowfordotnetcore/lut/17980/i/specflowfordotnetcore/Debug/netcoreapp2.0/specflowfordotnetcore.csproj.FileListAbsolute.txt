@@ -1,0 +1,11 @@
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.deps.json
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.runtimeconfig.json
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.runtimeconfig.dev.json
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.dll
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.pdb
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.csprojResolveAssemblyReference.cache
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.csproj.CoreCompileInputs.cache
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.AssemblyInfoInputs.cache
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.AssemblyInfo.cs
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.dll
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\specflowfordotnetcore\Debug\netcoreapp2.0\specflowfordotnetcore.pdb

@@ -1,0 +1,15 @@
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\Specs\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\Specs\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\Specs\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\Specs\Debug\netcoreapp2.0\Specs.dll.config
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\Specs\Debug\netcoreapp2.0\Specs.deps.json
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\Specs\Debug\netcoreapp2.0\Specs.runtimeconfig.json
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\Specs\Debug\netcoreapp2.0\Specs.runtimeconfig.dev.json
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\Specs\Debug\netcoreapp2.0\Specs.dll
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\b\Specs\Debug\netcoreapp2.0\Specs.pdb
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\Specs\Debug\netcoreapp2.0\Specs.csproj.CoreCompileInputs.cache
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\Specs\Debug\netcoreapp2.0\Specs.AssemblyInfoInputs.cache
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\Specs\Debug\netcoreapp2.0\Specs.AssemblyInfo.cs
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\Specs\Debug\netcoreapp2.0\Specs.dll
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\Specs\Debug\netcoreapp2.0\Specs.pdb
+C:\git\specflow.netcore\.vs\specflowfordotnetcore\lut\0\i\Specs\Debug\netcoreapp2.0\Specs.csprojResolveAssemblyReference.cache
