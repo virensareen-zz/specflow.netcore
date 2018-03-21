@@ -28,6 +28,7 @@ Remove any other unnecessary packages installed on the project.
 
 STEP 5: 
 > 5.1 Right click on your Specs project in solution explorer and select 'Edit x.csproj' where x = the name you gave the project in step 1.1. If this option isn't available, you will need to unload the project first.
+
 > 5.2 Paste the following in the csproj file:
 ```
 	<ItemGroup>
