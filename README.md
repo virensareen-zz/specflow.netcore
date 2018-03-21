@@ -3,8 +3,8 @@ Setting up Specflow for DotNetCore in Visual Studio 2017.
 Note that this guide will assume that you have Specflow extension already installed in your Visual Studio.
 
 STEP 1: 
-1.1 Setup a new unit test (.NET Core) project within your solution.
-1.2 By default this will add some NuGet packages to your project and a test class.
+> 1.1 Setup a new unit test (.NET Core) project within your solution.
+> 1.2 By default this will add some NuGet packages to your project and a test class.
 Delete the test class, you will not require it.
 
 STEP 2:
@@ -27,14 +27,14 @@ STEP 4:
 Remove any other unnecessary packages installed on the project.
 
 STEP 5: 
-5.1 Right click on your Specs project in solution explorer and select 'Edit x.csproj' where x = the name you gave the project in step 1.1. If this option isn't available, you will need to unload the project first.
-5.2 Paste the following in the csproj file:
+> 5.1 Right click on your Specs project in solution explorer and select 'Edit x.csproj' where x = the name you gave the project in step 1.1. If this option isn't available, you will need to unload the project first.
+> 5.2 Paste the following in the csproj file:
 ```
 	<ItemGroup>
 	  <DotNetCliToolReference Include="SpecFlow.NetCore" Version="1.3.1" />
 	</ItemGroup>
 ```
-5.3 In the same file you will need to add a pre-compile script: 
+> 5.3 In the same file you will need to add a pre-compile script: 
 ```	
 <Target Name="PrecompileScript" BeforeTargets="BeforeBuild">
 	<Exec Command="dotnet SpecFlow.NetCore" />
