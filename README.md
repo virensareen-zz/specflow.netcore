@@ -1,6 +1,6 @@
 # specflow.netcore
 Setting up Specflow for DotNetCore in Visual Studio 2017.
-Note that this guide will assume that you have Specflow extension already installed in your Visual Studio. If not please [click here] (https://marketplace.visualstudio.com/items?itemName=TechTalkSpecFlowTeam.SpecFlowforVisualStudio2017) to download and install Specflow for VS2017.
+Note that this guide will assume that you have Specflow extension already installed in your Visual Studio. If not please [click here](https://marketplace.visualstudio.com/items?itemName=TechTalkSpecFlowTeam.SpecFlowforVisualStudio2017) to download and install Specflow for VS2017.
 
 STEP 1: 
 > 1.1 Setup a new unit test (.NET Core) project within your solution.
